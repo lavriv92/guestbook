@@ -18,6 +18,7 @@ app.config.from_object(BaseSettings)
 class GuestbookItem(db.Model):
     """
     ffsafdsafdsa
+    aaaaaaaaaaaaaaa
     """
     id = db.Column(db.Integer, primary_key=True)
     author = db.Column(db.String(80))
