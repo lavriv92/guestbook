@@ -17,7 +17,11 @@ app.config.from_object(BaseSettings)
 
 class GuestbookItem(db.Model):
     """
+<<<<<<< HEAD
     --------------
+=======
+    csfsafdafds
+>>>>>>> 6d27e180b91f44d0a337703c9cfe8ccd6fabfa39
     ffsafdsafdsa
     aaaaaaaaaaaaaaa
     """
